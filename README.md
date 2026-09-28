@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Pablo
 
-<!--
-**PabloGJ0397/PabloGJ0397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2º de DAM (Desarrollo de Aplicaciones Multiplataforma), buscando prácticas o mi primer puesto como desarrollador junior.
 
-Here are some ideas to get you started:
+Me gusta entender bien lo que hago antes de avanzar, y disfruto especialmente cuando algo que empieza siendo confuso termina encajando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy partidario de la ley del mínimo esfuerzo. No por pereza, sino porque creo que implantar flujos de trabajo claros y replicables es la forma más eficiente de aprovechar el tiempo y lograr objetivos. Allá donde trabajo, si veo algo que se puede optimizar o sistematizar para que fluya mejor, lo hago.
+
+## 🛠️ Con lo que trabajo
+
+- **Java** y **SQL**
+- **Kotlin** (aprendiendo este curso)
+- Familiarizado con **HTML/CSS**, **XML** y **Docker** (nivel básico)
+- Este año amplío con **AWS** (Computación en la Nube)
+
+Fuera del temario, tengo interés por explorar **Python** y **Rust**.
+
+## 🚧 Proyectos
+
+Estoy construyendo mi portfolio desde cero. Los primeros proyectos, pequeños pero completos, están en camino.
+
+## 📬 Contacto
+
+- Email: garciajuarezpablo97@gmail.com
+- LinkedIn: _(pendiente de pulir — se añade pronto)_
