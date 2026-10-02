@@ -22,4 +22,4 @@ Estoy construyendo mi portfolio desde cero. Los primeros proyectos, pequeños pe
 ## 📬 Contacto
 
 - Email: garciajuarezpablo97@gmail.com
-- LinkedIn: _(pendiente de pulir — se añade pronto)_
+- LinkedIn: www.linkedin.com/in/pablo-garcia-juarez
